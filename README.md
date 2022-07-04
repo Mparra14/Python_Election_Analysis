@@ -1,9 +1,13 @@
 # Python_Election_Analysis
-##Overview of Election Audit: 
+## Overview of Election Audit: 
+
  Throughout this section we were given the task of finding the results of a Colorado precicnt elections by using Python. We were able to create a code that would iterate through all the votes, which were given to us by a CSV sheet, and find the candidate that won the election by popular vote. Not only were we able to find the candidate that won, we also appended the code to find which county had the most voter turnout.  
 
-##Election-Audit Results:
-  In this particular election, we were given 3 counties in this precinct elections: Denver, Jefferson, and Arapahoe. We had generate a vote count report that would include the winner of the election and which county had the largest amount of voters. 
+## Election-Audit Results:
+
+  In this particular election, we were given 3 counties in this precinct elections: Denver, Jefferson, and Arapahoe. We had generate a vote count report that would include the winner of the election and which county had the largest amount of voters. Please see below for the count report generated. 
+  
+  
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 *How many votes were cast in this congressional election?
