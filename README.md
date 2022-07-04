@@ -6,7 +6,8 @@
 ## Election-Audit Results:
 
   In this particular election, we were given 3 counties in this precinct elections: Denver, Jefferson, and Arapahoe. We had generate a vote count report that would include the winner of the election and which county had the largest amount of voters. Please see below for the count report generated. 
-  
+![vote_count_report](https://github.com/Mparra14/Python_Election_Analysis/blob/main/Voter_Count_Report.png)
+
   
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
