@@ -12,8 +12,9 @@
 * In the second part of our report, we see the counties and the amount of votes casted in each county, as well as their percentage proportional to their amount of votes.The first county is Jefferson with a 10.5% of votes and a total amount 38,855 of votes casted. The second, is Denver with an 82.5% of votes and a total amount of 306,055 of votes casted. The last county is Arapahoe, with a total 6.7% of votes and total of 24,801 of votes casted. We were able to get these results by using the code below, which is able to go through our dictionary of County_votes and that everytime it sees a county it will count it becomes avariable known as county_vote.Once this is integrated in our equation we are able to get a percentage, and then we are able to print this out as it appear on the report.
 
 ![county_votes_code](https://github.com/Mparra14/Python_Election_Analysis/blob/main/County_Votes.png)
-*The county that had the largest amount of voter turnout was Denver. This can be seen it the vote report in the 3rd section. 
-*
+
+* The county that had the largest amount of voter turnout was Denver. This can be seen in the vote report on the 3rd section. 
+* In this precinct election, there were 3 candidates: Charles Casper Stockham, Diana Degette, and Raymon Anthony Doane. Starting with the first candidate Charles Casper Stockham, he recieved 23% of the votes and a total of 85,213 of votes casted. Our second candidate, Diana Degette received 73.8% of the votes and 306,055 of votes casted. The last candidate Raymon Anthony Doane, received 3.1% of the votes and 11,606 of votes casted.These results came about us using the code below, which is very similar to the code we used to find the percentage and the total votes in each county, 
 
   
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
